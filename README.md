@@ -1,3 +1,1 @@
-# toolkit
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-hsns3n)
+# My personal toolkit of hooks, utils, approaches, etc.
